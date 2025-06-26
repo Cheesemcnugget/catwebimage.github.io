@@ -1,0 +1,13 @@
+{
+  "name": "roblox-avatar-color-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jimp": "^0.22.10",
+    "node-fetch": "^2.6.9"
+  }
+}
